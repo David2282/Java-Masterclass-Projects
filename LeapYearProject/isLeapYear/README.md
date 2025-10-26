@@ -9,5 +9,5 @@ and returns the number of days in a month.
 - Static methods and basic control flow
 
 ### Course Reference
-Created for **Section 4: Control Flow Statements**  
+Created for **Section 6: Control Flow Statements**  
 of Tim Buchalka’s *Java Masterclass 2025* on Udemy.
