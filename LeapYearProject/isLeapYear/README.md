@@ -1,18 +1,13 @@
-## Getting Started
+# Leap Year Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple Java program that checks whether a given year is a leap year  
+and returns the number of days in a month.
 
-## Folder Structure
+### Concepts Practiced
+- Conditional logic (`if`, `else if`)
+- Switch expressions with `yield`
+- Static methods and basic control flow
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Course Reference
+Created for **Section 4: Control Flow Statements**  
+of Tim Buchalka’s *Java Masterclass 2025* on Udemy.
